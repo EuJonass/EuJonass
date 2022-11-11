@@ -3,7 +3,7 @@ Brasileiro apaixonado por tecnologia e decidido a mudar o "𝙈𝙐𝙉𝘿𝙊"
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jot4_7bb/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551996102246)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jonas-rambo-9a14a01a3/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-rambo-9a14a01a3/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jot4_7bb)
 
 ![EuJonass GitHub stats](https://github-readme-stats.vercel.app/api?username=EuJonass&show_icons=true&theme=radical)
