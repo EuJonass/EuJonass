@@ -8,6 +8,8 @@ Brasileiro apaixonado por tecnologia e decidido a mudar o "𝙈𝙐𝙉𝘿𝙊"
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jot4_7bb)
 
 ![EuJonass GitHub stats](https://github-readme-stats.vercel.app/api?username=EuJonass&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuJonass&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Estudo as seguintes tecnologias e áreas 👨‍💻📓
 <div style="display: inline_blocl"><br/>
