@@ -11,7 +11,7 @@ Brasileiro apaixonado por tecnologia e por resolver problemas! Decidido a mudar 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuJonass&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Estudo as seguintes tecnologias e áreas 👨‍💻📓
+## Estudo as Seguintes Tecnologias e Áreas 👨‍💻📓
 <div style="display: inline_blocl"><br/>
     <img align="center"
     alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
