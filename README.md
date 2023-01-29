@@ -22,8 +22,6 @@ Brasileiro apaixonado por tecnologia e por resolver problemas! Decidido a mudar 
     <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="ARDUÍNO" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    
-    ![Snake animation](https://github.com/EuJonass/EuJonass/blob/output/github-contribution-grid-snake.svg)
 </div>
     
    
